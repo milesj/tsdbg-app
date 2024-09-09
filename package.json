@@ -1,0 +1,22 @@
+{
+  "name": "tsdbg",
+  "version": "0.0.0",
+  "description": "Debug TypeScript builds.",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/milesj/tsdbg-app.git"
+  },
+  "keywords": [
+    "tsdbg",
+    "ts",
+    "typescript",
+    "dbg",
+    "debug"
+  ],
+  "author": "Miles Johnson",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/milesj/tsdbg-app/issues"
+  },
+  "homepage": "https://github.com/milesj/tsdbg-app"
+}
